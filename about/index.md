@@ -5,7 +5,6 @@ tags: [about, Jekyll, theme, JBlog]
 date: 2016-03-21
 ---
 
-<center><b>JBlog</b> is a simple jekyll theme.</center>
 
 ## About
 
