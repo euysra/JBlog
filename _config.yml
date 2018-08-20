@@ -1,9 +1,9 @@
 # Site
-title:          JBlog
-bio:            'Just a simple Jekyll theme'
-description:    "JBlog is a minimal, one column and blue jekyll theme for your blog."
+title:          EUYSRA
+bio:            'Edinburgh University Young Scientific Researchers Association'
+description:    "Nurturing scientific research since 2011"
 picture:        'assets/img/profile.png'
-locale:         en_US
+locale:         en_UK
 url:            https://euysra.github.io/JBlog
 
 
@@ -24,8 +24,8 @@ sass:
 # Social
 # if you don't have any of social below, comment the line.
 #email:
-twitter: username
-facebook: username
+twitter: EUYSRA #  TODO No tweets at the moment ...
+facebook: EUYSRA
 #google:
   #plus: #username
   #analytics:
@@ -33,18 +33,18 @@ facebook: username
   #ad-client:
   #ad-slot:
 #bing-verify:
-github: username
+github: euysra
 stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-linkedin: username
+# linkedin: username  TODO make euysra Linkedin organization
 #xing: username
-instagram: username
-lastfm: username
-tumblr: username
+instagram: euysra
+# lastfm: username
+# tumblr: username
 #pinterest: username
 #foursquare: username
-steam: username
+# steam: username
 #dribbble: username
-youtube: username
+# youtube: username
 #soundcloud: username
 #weibo: username
 #flickr: username
@@ -57,19 +57,19 @@ youtube: username
 
 
 # Comments
-disqus_shortname: alperenbozkurt-net
+# disqus_shortname: alperenbozkurt-net
 
 
 # Gems
 gems:
-  - jekyll-mentions
-  - jekyll-feed
+  # - jekyll-mentions
+  # - jekyll-feed
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-paginate
 
-jekyll-mentions:
-    base_url: https://github.com
+# jekyll-mentions:
+#     base_url: https://github.com
 
 # Exclude list
 exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile]
