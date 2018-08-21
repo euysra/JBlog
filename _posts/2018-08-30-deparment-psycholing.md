@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Psychology and Linguistics Department"
+title:  "Psychology & Linguistics"
 image: "https://i.imgur.com/FiyXoGD.png"
 date:   2018-08-30
 project: true
@@ -10,7 +10,8 @@ tag:
 - Psychology
 - Linguistics
 ---
-![jekyll Image](https://i.imgur.com/FiyXoGD.png)
+<!-- ![jekyll Image](https://i.imgur.com/FiyXoGD.png) -->
+ <img src="https://i.imgur.com/FiyXoGD.png" height="50px" width="50px" >
 
 **Head of department:** Ana Puljić, MA Philosophy and Psychology, 4th year  
 

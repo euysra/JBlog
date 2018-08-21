@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Biology Department"
+title:  "Mathematics"
 image: "https://i.imgur.com/GH1oi7M.png"
 date:   2018-08-30
 project: true

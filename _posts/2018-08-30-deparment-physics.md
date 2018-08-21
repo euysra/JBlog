@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Biology Department"
+title:  "Physics"
 image: "https://i.imgur.com/3d51fPc.png"
 date:   2018-08-30
 project: true
 excerpt: ""
 tag:
 - Department
-- Biology
+- Physics
 ---
 ![jekyll Image](https://i.imgur.com/3d51fPc.png)
 
