@@ -4,8 +4,6 @@ title: About EUYSRA
 tags: [about, EUYSRA]
 date: 2016-03-21
 ---
-# Overview
-
 ![jekyll Image](https://www.eusa.ed.ac.uk/asset/Organisation/10967/EUYSRA-COVER-large.jpg)
 
 The **Edinburgh University Young Scientific Researchers Association (EUYSRA)** is an acting catalyst for undergraduate scientific innovation and research development.
@@ -15,7 +13,7 @@ One of the most prominent and inclusive academic societies of the university, EU
 ![jekyll Image](https://www.eusa.ed.ac.uk/asset/Organisation/10967/webpage1%282%29.png)
 
 
-# Researcher Projects
+# Researcher PBlog/freshersWeek2017/rojects
 
 EUYSRA encourages experimental and social science students to pursue and develop original and independent research through working in teams consisting of people from similar academic backgrounds with the possibility for interdepartmental cooperation, thereby allowing valuable skills and appreciation for scientific research to be gained.
 

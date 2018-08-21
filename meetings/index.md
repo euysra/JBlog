@@ -7,6 +7,7 @@ date:
 # General meeting
 
 Every Wednesday 6 PM in Appletton Tower Lecture Theatre 5
+![map](https://i.imgur.com/i0QT42m.png)
 
 
 # Department meetings
