@@ -6,13 +6,13 @@ date: 2016-03-21
 ---
 # Overview
 
-![alt text](assets/img/posts/EUYSRA-COVER-large.jpg)
+![alt text](/assets/img/posts/EUYSRA-COVER-large.jpg)
 
 The **Edinburgh University Young Scientific Researchers Association (EUYSRA)** is an acting catalyst for undergraduate scientific innovation and research development.
 
 One of the most prominent and inclusive academic societies of the university, EUYSRA was established in 2011 and is currently running for its 8th successful academic year.
 
-![alt text](assets/img/posts/overview-info.png)
+![alt text](/assets/img/posts/overview-info.png)
 
 # Researcher Projects
 
@@ -20,14 +20,14 @@ EUYSRA encourages experimental and social science students to pursue and develop
 
 The way this differs from course assigned lab work is that students develop and dictate the terms of their own experiments by pursuing team generated ideas. Through brainstorming and development of experimental ideas, templates for small scale scientific research experiments are formed, which are then presented to the research committee who evaluate whether to proceed with the research, having considered the cost and time to be spent on each project. The society aids in the search for an academic supervisor and university laboratory. Whilst under the supervision of a lab supervisor, the teams will learn about research conduct, presentation and discussion of experimental results.
 
-![alt text](assets/img/posts/research-project-info.png)
+![alt text](/assets/img/posts/research-project-info.png)
 
 
 # Departments
 
 Members can join one or several departments including Biology, Physics, Mathematics, Psychology & Linguistics.
 
-![alt text](assets/img/posts/departments-info.png)
+![alt text](/assets/img/posts/departments-info.png)
 
 These departments serve as platforms for members to brainstorm and develop their experiments in familiar academic environments, whilst being guided and organized by the department heads. Here they may find that an experiment is not limited to a certain academic field and may require assistance from another department. This is why the society also holds interdepartmental brainstorming sessions.
 
@@ -37,10 +37,10 @@ The society, whilst primarily acting as a catalyst for scientific innovation and
 
 The EUYSRA Annual Research Conference is the highlight of the society’s yearly events where all the members’ research projects and their findings are being presented.
 
-![alt text](assets/img/posts/events-info.png)
+![alt text](/assets/img/posts/events-info.png)
 
 # Members
 
 Through participation in the society, members will gain valuable skills relating to research conduct and team work skills which become highly attractive when applying for internships, Masters or even PhD positions. Members are further greatly encouraged to take an innovative approach to developing new and exciting experiments. For many undergraduate members the EUYSRA projects are their first contact with real scientific research, and the society takes pride and responsibility in providing members with advice and guidance for excellent projects!
 
-![alt text](assets/img/posts/members-info.png)
+![alt text](/assets/img/posts/members-info.png)
