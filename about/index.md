@@ -13,7 +13,7 @@ One of the most prominent and inclusive academic societies of the university, EU
 ![jekyll Image](https://www.eusa.ed.ac.uk/asset/Organisation/10967/webpage1%282%29.png)
 
 
-# Researcher PBlog/freshersWeek2017/rojects
+# Researcher Projects
 
 EUYSRA encourages experimental and social science students to pursue and develop original and independent research through working in teams consisting of people from similar academic backgrounds with the possibility for interdepartmental cooperation, thereby allowing valuable skills and appreciation for scientific research to be gained.
 
@@ -44,3 +44,7 @@ The EUYSRA Annual Research Conference is the highlight of the society’s yearly
 Through participation in the society, members will gain valuable skills relating to research conduct and team work skills which become highly attractive when applying for internships, Masters or even PhD positions. Members are further greatly encouraged to take an innovative approach to developing new and exciting experiments. For many undergraduate members the EUYSRA projects are their first contact with real scientific research, and the society takes pride and responsibility in providing members with advice and guidance for excellent projects!
 
 ![jekyll Image](https://www.eusa.ed.ac.uk/pageassets/activities/societies/society/young-researchers/webpage7(1).png)
+
+# Join Us!
+
+You can join the society or subscribe to newspaper [here](https://www.eusa.ed.ac.uk/activities/societies/society/youngresearchers/)
