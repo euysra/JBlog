@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Psychology & Linguistics"
+title:  "Psychology and Linguistics"
 image: "https://i.imgur.com/FiyXoGD.png"
 date:   2018-08-30
 project: true
