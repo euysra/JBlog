@@ -1,10 +1,8 @@
 ---
 layout: page
 title: Join Us
-tags: [about, Jekyll, theme, JBlog]
+tags: [join, EUYSRA]
 date:
 ---
 
-
-## Join us
-It will be fun
+To join the society please register [here](https://www.eusa.ed.ac.uk/activities/societies/society/youngresearchers/)
