@@ -4,6 +4,7 @@ title:  "Biology Department"
 image: "https://i.imgur.com/GH1oi7M.png"
 date:   2018-08-30
 project: true
+excerpt: ""
 tag:
 - Department
 - Mathematics
