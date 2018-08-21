@@ -9,14 +9,14 @@ date:
 Every Wednesday 6 PM in Appletton Tower Lecture Theatre 5
 ![map](https://i.imgur.com/i0QT42m.png)
 
- <br></br>
+ <br>  <!--  Space between -->
 
 # Department meetings
 
 | Department               | Time             | Location     |
 | -------------------------|------------------|--------------|
-| Biology                  | TBD              | TDB          |
-| Physics                  | TBD              | TBD          |
-| Mathematics              | TBD              | TBD          |
-| Psychology & Linguistics | TBD              | TBD          |
-| Informatics              | TBD              | TBD          |
+| Biology                  | TBA              | TBA          |
+| Physics                  | TBA              | TBA          |
+| Mathematics              | TBA              | TBA          |
+| Psychology & Linguistics | TBA              | TBA          |
+| Informatics              | TBA              | TBA          |

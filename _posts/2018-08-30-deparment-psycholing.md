@@ -11,7 +11,7 @@ tag:
 - Linguistics
 ---
 <!-- ![jekyll Image](https://i.imgur.com/FiyXoGD.png) -->
- <img src="https://i.imgur.com/FiyXoGD.png" height="50px" width="50px" >
+ <img src="https://i.imgur.com/FiyXoGD.png" height="500" width="500" >
 
 **Head of department:** Ana Puljić, MA Philosophy and Psychology, 4th year  
 
