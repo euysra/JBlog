@@ -2,7 +2,7 @@
 layout: post
 title:  "Psychology and Linguistics"
 image: "https://i.imgur.com/FiyXoGD.png"
-date:   2018-08-30
+date:   2018-08-31
 project: true
 excerpt: ""
 tag:
