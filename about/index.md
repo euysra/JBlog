@@ -52,7 +52,7 @@ Through participation in the society, members will gain valuable skills relating
 - **Secratary:** Omar Shabana 
 - **Head of Research:** Ranya Behbehani
 - **Treasurer:** Giovanna Weykopf
-- **IT Director:** Rimvydas Rubavicius (UG4 Artificial Intelligence and Computer Science)
+- **IT Director:** Rimvydas Rubavicius
 - **Social Secretary:** Dimitra Anglou
 
 ## Deparment Heads
