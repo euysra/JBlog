@@ -47,19 +47,19 @@ Through participation in the society, members will gain valuable skills relating
 
 # Committee Members
 
-- **President:** Winnie the Pooh (UG3 Literature)
-- **Chair:** Pinocchio (UG2 Carpenting )
-- **Secratary & the Head of Research:** dexter (UG3 Natural Science)
-- **Treasurer:** Grinch (UG2 Economics)
+- **President:** Spyros Lytras
+- **Chairman:** Melina Beykou
+- **Secratary:** Omar Shabana 
+- **Head of Research:** Ranya Behbehani
+- **Treasurer:** Giovanna Weykopf
 - **IT Director:** Rimvydas Rubavicius (UG4 Artificial Intelligence and Computer Science)
-- **Social Secretary:** Barbie (UG2 Fashion)
+- **Social Secretary:** Dimitra Anglou
 
 ## Deparment Heads
-- **Biology:** Sunflower (UG3 Biology)
-- **Physics:** Hydrogen (UG3 Chemistry )
-- **Psychology & Linguistics:** Freud (UG3 Linguistics)
-- **Mathematics:** Fermat (UG2 Dancing)
-- **Informatics:** Alan (UG2 Computer Science)
+- **Biology:** Giovanna Weykopf, Swetha Kannan
+- **Physics:** Andrea Husseiniova
+- **Psychology & Linguistics:**  Dan North, Griffith Tai
+- **Mathematics:** Christos Kourris 
 
 # Join Us!
 
