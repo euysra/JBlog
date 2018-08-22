@@ -45,6 +45,22 @@ Through participation in the society, members will gain valuable skills relating
 
 ![jekyll Image](https://www.eusa.ed.ac.uk/pageassets/activities/societies/society/young-researchers/webpage7(1).png)
 
+# Committee Members
+
+- **President:** Winnie the Pooh (UG3 Literature)
+- **Chair:** Pinocchio (UG2 Carpenting )
+- **Secratary & the Head of Research:** dexter (UG3 Natural Science)
+- **Treasurer:** Grinch (UG2 Economics)
+- **IT Director:** Rimvydas Rubavicius (UG4 Artificial Intelligence and Computer Science)
+- **Social Secretary:** Barbie (UG2 Fashion)
+
+## Deparment Heads
+- **Biology:** Sunflower (UG3 Biology)
+- **Physics:** Hydrogen (UG3 Chemistry )
+- **Psychology & Linguistics:** Freud (UG3 Linguistics)
+- **Mathematics:** Fermat (UG2 Dancing)
+- **Informatics:** Alan (UG2 Computer Science)
+
 # Join Us!
 
 You can join the society or subscribe to newspaper [here](https://www.eusa.ed.ac.uk/activities/societies/society/youngresearchers/)
