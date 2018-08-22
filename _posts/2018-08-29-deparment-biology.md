@@ -9,8 +9,8 @@ tag:
 - Department
 - Biology
 ---
-![jekyll Image](https://i.imgur.com/Q5eXtxi.png)
 
+<img src="https://scontent-lht6-1.xx.fbcdn.net/v/t1.0-9/21271023_507191172960609_3373333406381070380_n.jpg?_nc_cat=0&oh=b71f26797afe353373cafba64571cf72&oe=5BF937E4" width="250px" height="250px"/>
 
 
 **Head of department** : Spyros Lytras, BSc Biological Sciences (Evolutionary Biology), 3rd year  
