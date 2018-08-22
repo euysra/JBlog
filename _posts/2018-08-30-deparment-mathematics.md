@@ -11,6 +11,7 @@ tag:
 ---
 ![jekyll Image](https://scontent-lht6-1.xx.fbcdn.net/v/t1.0-9/21371287_507190262960700_8209820176559275519_n.png?_nc_cat=0&oh=ffc54d0141dca37560896f355d202857&oe=5C07CFA3)
 
+<img src="https://scontent-lht6-1.xx.fbcdn.net/v/t1.0-9/21371287_507190262960700_8209820176559275519_n.png?_nc_cat=0&oh=ffc54d0141dca37560896f355d202857&oe=5C07CFA3" width="50px" height="50px">
 **Head of department:** Simon Holm, BSc Mathematics, Year 4
 
 **Meeting place:** TBA (most likely JCMB King’s Buildings or George Square/Appleton Tower)
