@@ -21,7 +21,7 @@ tag:
 - Camille Wouters, BSc Biological Sciences (Biochemistry), 2nd year
 - Ania Kurowska, BSc Psychology, 2nd year
 
-**Meeting place:**  TBA
+**Meeting place:**  Edinburgh
 
 **Meeting time:**  TBA
 
