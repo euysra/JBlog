@@ -9,7 +9,8 @@ tag:
 - Department
 - Physics
 ---
-![jekyll Image](https://i.imgur.com/3d51fPc.png)
+
+<img src="https://scontent-lht6-1.xx.fbcdn.net/v/t1.0-9/21369151_507191452960581_363698714970677409_n.png?_nc_cat=0&oh=9f32c34cc3e95afd07189e5116eeb0f4&oe=5BF83104" width="250px" height="250px"/>
 
 **Head of department:** Anna de Graaff, MPhys with Honours Astrophysics, 5th year
 
