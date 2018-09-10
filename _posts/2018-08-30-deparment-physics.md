@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Physics"
-image: "https://i.imgur.com/3d51fPc.png"
+image: "https://scontent-lht6-1.xx.fbcdn.net/v/t1.0-9/21369151_507191452960581_363698714970677409_n.png?_nc_cat=0&oh=9f32c34cc3e95afd07189e5116eeb0f4&oe=5BF83104"
 date:   2018-08-30
 project: true
 excerpt: ""

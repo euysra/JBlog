@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mathematics"
-image: "https://i.imgur.com/GH1oi7M.png"
+image: "https://scontent-lht6-1.xx.fbcdn.net/v/t1.0-9/21371287_507190262960700_8209820176559275519_n.png?_nc_cat=0&oh=ffc54d0141dca37560896f355d202857&oe=5C07CFA3"
 date:   2018-08-30
 project: true
 excerpt: ""
