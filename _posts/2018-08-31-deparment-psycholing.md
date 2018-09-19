@@ -12,10 +12,7 @@ tag:
 ---
 <img src="https://i.imgur.com/YxkEasi.png" width="250px" height="250px"/>
 
-**Head of department:** Ana Puljić, MA Philosophy and Psychology, 4th year  
-
-**Psychology committee:**  
-- Emily Dawson, MA Linguistics and Psychology, 4th year
+**Heads of department:** Dan North, Griffith Tai
 
 **Meeting place:**  TBA
 

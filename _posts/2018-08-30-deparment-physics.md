@@ -12,11 +12,11 @@ tag:
 
 <img src="https://scontent-lht6-1.xx.fbcdn.net/v/t1.0-9/21369151_507191452960581_363698714970677409_n.png?_nc_cat=0&oh=9f32c34cc3e95afd07189e5116eeb0f4&oe=5BF83104" width="250px" height="250px"/>
 
-**Head of department:** Anna de Graaff, MPhys with Honours Astrophysics, 5th year
+**Head of department:** Andrea Husseiniova
 
-**Meeting place:**  Appleton Tower room 2.04
+**Meeting place:**  TBA
 
-**Meeting time**: Tuesdays from 6-7pm (note: meetings start in week 2, from 26/9)
+**Meeting time**: TBA
 
 The Physics department aims to help undergraduates set up their own research projects. We will brainstorm project ideas during our meetings and let members form small groups to research the most interesting ideas. Groups typically consist of members from different years (including 1st years!) and different degree programmes, so anyone can take part! The department head will help with finding a suitable project supervisor and applying for EUYSRA funding.  
 
