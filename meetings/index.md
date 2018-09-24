@@ -7,7 +7,7 @@ date:
 # General meeting
 
 Every Wednesday 6 PM in David Hume Tower Lecture Theatre C
-![map](https://ibb.co/itAQE9)
+![map](https://image.ibb.co/fwhGMp/map.png)
 
  <br>  <!--  Space between -->
 
