@@ -6,8 +6,8 @@ date:
 ---
 # General meeting
 
-Every Wednesday 6 PM in Appletton Tower Lecture Theatre 5
-![map](https://i.imgur.com/i0QT42m.png)
+Every Wednesday 6 PM in David Hume Tower Lecture Theatre C
+![map](https://ibb.co/itAQE9)
 
  <br>  <!--  Space between -->
 
