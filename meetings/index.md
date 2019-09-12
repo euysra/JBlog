@@ -15,8 +15,12 @@ Every Wednesday 6 PM in David Hume Tower Lecture Theatre C
 
 | Department               | Time             | Location     |
 | -------------------------|------------------|--------------|
-| Biology                  | TBA              | TBA          |
-| Physics                  | TBA              | TBA          |
-| Mathematics              | TBA              | TBA          |
-| Psychology & Linguistics | TBA              | TBA          |
-| Informatics              | TBA              | TBA          |
+| Biology                  | Mondays 6-7PM    | DHT 3.01     |
+| Physics                  | Thursdays, 6-7PM | AT 2.11      |
+| Mathematics              | Mondays, 5:30-6:30PM | DHT 7.18 |
+| Psychology & Linguistics | Thursdays, 6-7PM | 50GS 2.30    |
+| Informatics              | Mondays, 5:30-6:30PM | DHT 7.18 |
+
+# Notes
+
+Physics meeting times are subject to change, and Mathematics & Informatics meetings are biweekly.
